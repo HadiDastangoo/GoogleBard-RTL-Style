@@ -34,4 +34,4 @@ Depend on your browser, You can use one of plugins/extensions to inject CSS code
 * موزیلا فایرفاکس: [Custom Style Script](https://addons.mozilla.org/en-US/firefox/addon/custom-style-script/)
 * ... و بسیاری افزونه‌های دیگر! (کافی‌است نام مرورگرتان را با کلمات کلیدی CSS injector یا custom CSS و مانند اینها جستجو کنید).
 
-در این استایل از فونت [Rubik](https://fonts.google.com/specimen/Rubik?subset=arabic) استفاده شده است.
+در این استایل از فونت [Rubik](https://fonts.google.com/specimen/Rubik?subset=arabic) استفاده شده است اگرچه با تغییرات کوچکی می‌توانید از فونت دلخواه دیگری از مجموعه [Google Fonts](https://fonts.google.com/?subset=arabic&noto.script=Arab) استفاده کنید.
