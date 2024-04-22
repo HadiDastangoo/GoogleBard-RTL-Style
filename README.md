@@ -1,4 +1,4 @@
-# GoogleBard-RTL-Style
+# Google Gemini RTL Style
 A few lines of CSS to change font of Persian/Arabic Languages output!
 
 ### Code
@@ -25,7 +25,7 @@ Depend on your browser, You can use one of plugins/extensions to inject CSS code
 * ... and many other extensions! (Search your Browser name with this keywords: "add custom CSS", "inject CSS", ...)
 
 ## تغییر فونت چت‌بات Google Bard (راهنمای فارسی)
-این، چند خط استایل CSS برای چت‌بات [Google Bard](https://bard.google.com) است برای کسانی که می‌خواهند ظاهر زیباتری را با تغییر فونت محیط گفتگوی آن تجربه کنند. 
+این، چند خط استایل CSS برای چت‌بات [Google Gemini](https://gemini.google.com) است برای کسانی که می‌خواهند ظاهر زیباتری را با تغییر فونت محیط گفتگوی آن تجربه کنند. 
 
 ### طریقه استفاده
 کافی است بسته به نوع مرورگرتان، از یکی از افزونه‌های زیر جهت واردکردن کد CSS به صفحه Google Bard استفاده کنید و کد CSS بالا را با استفاده از افزونه به صفحه https://bard.google.com اضافه کنید:
